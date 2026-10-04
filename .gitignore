@@ -1,0 +1,12 @@
+# logs and local state
+*.log
+*.log.old
+*.state
+
+# unpatched backups of the user's local install (never commit these)
+*.asar
+*.asar.orig
+
+node_modules/
+.DS_Store
+Thumbs.db

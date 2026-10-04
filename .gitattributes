@@ -1,0 +1,6 @@
+# Keep the repository files LF, whatever the contributor's platform.
+* text=auto eol=lf
+
+# The VBS launcher is executed by cscript/wscript on Windows.
+*.vbs text eol=crlf
+*.ps1 text eol=crlf
