@@ -11,6 +11,8 @@ anything if the markup no longer matches the expected patterns.
 > Not affiliated with, endorsed by, or supported by the OpenCode project.
 > It patches your local install only; no OpenCode files are redistributed here.
 
+**English** · [Español](README.es.md)
+
 ---
 
 ## What it changes
